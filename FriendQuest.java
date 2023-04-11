@@ -17,7 +17,7 @@ public class FriendQuest {
             System.out.println("Friend Numbers");
         }
         else
-            System.out.println("This isn't Friends");
+            System.out.println("This Numbers isn't Friend");
     }
 
 }
